@@ -66,7 +66,7 @@ dependencies {
 
     // API
     compileOnly("net.milkbowl.vault:VaultAPI:1.7")
-    compileOnly("dev.lone:api-itemsadder:4.0.10")
+    compileOnly("dev.lone:api-itemsadder:4.0.17")
 
     // Dependency Plugins
     compileOnly("me.clip:placeholderapi:2.12.2")
